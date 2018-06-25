@@ -26,4 +26,5 @@ button {
     height: 10vh;
     align-self: center;
     padding: 20px;
+    overflow: hidden;
 }
